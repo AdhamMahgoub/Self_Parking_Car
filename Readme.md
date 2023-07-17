@@ -13,3 +13,5 @@ Raspberry Pi: The Raspberry Pi serves as the brain of the car, responsible for p
 Camera module: A camera module is used to capture the live video feed of the road. It provides the visual input required for the computer vision algorithms to detect lane markings and parking spaces.
 
 Ultrasonic sensor: An ultrasonic sensor is employed to measure the distance between the car and obstacles. It helps in obstacle detection and collision avoidance during parking.
+
+Arduino: To control the DC and Servo motors 
