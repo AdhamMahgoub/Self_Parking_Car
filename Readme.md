@@ -1,6 +1,6 @@
 # Lane-Following and Autonomous Parking Car
 
-This project showcases a self-driving car that is capable of following a lane and parking autonomously using computer vision techniques. The car utilizes a Raspberry Pi, a camera module, and an ultrasonic sensor for its functionality.
+This project showcases a self-driving car that is capable of following a lane and parking autonomously using computer vision techniques. The car utilizes a Raspberry Pi, a camera module, and an ultrasonic sensor, DC and Servo Motors for its functionality.
 
 ## Features
 Lane following: The car is equipped with a camera module that captures live video feed of the road. Computer vision algorithms process the video frames to detect the lane markings and determine the appropriate steering angle for the car to follow the lane.
